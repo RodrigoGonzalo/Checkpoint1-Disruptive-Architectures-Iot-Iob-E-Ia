@@ -22,3 +22,5 @@ Tecnologias Utilizadas: seaborn, matplotlib, pandas, numpy, sklearn, algoritmo d
 ## Diagrama do projeto
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+
+AVISO: As imagens estão nos arquivos do repositório.
